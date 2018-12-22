@@ -1,0 +1,12 @@
+{
+  "name": "intermap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "stylus": "^0.54.5"
+  }
+}
